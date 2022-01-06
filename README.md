@@ -23,3 +23,22 @@ Python Scanner and Exploiter of Remote File Inclusion Vulnerabilitie
 
 2.2- Wrappers
 
+**Installation**
+
+Commands:
+
+apt install pip
+
+pip3 install python3-pyfiglet
+
+pip3 install colorama
+
+git clone https://github.com/S12cybersecurity/rfi_paradise/
+
+**Execution**
+
+cd rfi_paradise
+
+python3 rfi.py
+
+![imagen](https://user-images.githubusercontent.com/79543461/148431196-ce086fb3-db0f-49f7-8536-c744cc59a2f4.png)
